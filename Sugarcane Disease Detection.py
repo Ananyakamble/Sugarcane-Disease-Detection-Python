@@ -1,0 +1,1 @@
+print("Sugarcane Disease Detection")
